@@ -20,6 +20,5 @@
 - [ ] renwu
 - [x] renwu
 
-|姓名|性别|年|  
-| :三千一水 | :男: | 20: |  
-|x|x|x|  
+|ming|xing|nina|  
+|;wo|;wowo;|wo;|  
